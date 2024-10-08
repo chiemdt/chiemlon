@@ -1,19 +1,12 @@
+Đặng Xuân Lộc
 chiem chiem hình các quyền phù hợp. Dưới đây là các bước cụ thể:
 
 1. Thêm Người Dùng vào Repository
 Truy cập vào repository bạn muốn cấp quyền.
 Nhấp vào Settings (Cài đặt).
 Trong phần Manage access (Quản lý truy cập), nhấp vào nút Invite a collaborator (Mời cộng tác viên).
-Nhập tên người dùng hoặc email của người bạn muốn cấp quyền và nhấp Add.
-2. Cấu Hình Quyền Truy Cập
-Bạn có thể cấp các quyền truy cập khác nhau cho cộng tác viên trong một repository. Các quyền này bao gồm:
 
-Read: Chỉ được phép đọc và xem repository.
-Write: Có thể push code và tạo pull request nhưng không thể merge.
-Triage: Có thể quản lý issues và pull requests.
-Maintain: Quản lý cài đặt repository, có thể merge pull request.
-Admin: Toàn quyền (bao gồm cả xóa repository).
-Để cấp quyền merge, bạn cần ít nhất quyền Write hoặc Triage và cấu hình thêm quyền Merge. Nếu muốn cấp quyền đầy đủ để merge, bạn nên chọn Maintain hoặc Admin.
+Đặng Xuân lộc
 
 3. Thiết Lập Quy Tắc Bảo Vệ Nhánh (Branch Protection Rules)
 Trong Settings của repository, chọn Branches.
