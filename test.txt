@@ -1,4 +1,5 @@
 Đặng Xuân Lộc
+chiem chiem hình các quyền phù hợp. Dưới đây là các bước cụ thể:
 
 1. Thêm Người Dùng vào Repository
 Truy cập vào repository bạn muốn cấp quyền.
