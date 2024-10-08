@@ -22,7 +22,7 @@ Thêm hoặc chỉnh sửa quy tắc bảo vệ nhánh (Branch Protection Rules)
 4. Thêm Người Dùng vào Team (Nếu Dùng Organization)
 Nếu repository thuộc về một tổ chức (organization), bạn có thể thêm người dùng vào một team với các quyền nhất định:
 
-Vào Settings của tổ chức.
+doanthichiem
 Chọn Teams và thêm người dùng vào team bạn muốn.
 Cấu hình quyền của team tương ứng với repository.
 5. Kiểm Tra và Xác Nhận
