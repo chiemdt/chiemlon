@@ -1,4 +1,4 @@
-Để cấp quyền merge trong GitHub, bạn cần thêm người dùng vào một team hoặc repository và cấu hình các quyền phù hợp. Dưới đây là các bước cụ thể:
+Đặng Xuân Lộc
 
 1. Thêm Người Dùng vào Repository
 Truy cập vào repository bạn muốn cấp quyền.
